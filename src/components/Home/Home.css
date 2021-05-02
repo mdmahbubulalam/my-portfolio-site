@@ -1,0 +1,52 @@
+.home-bg{
+    background: url('../../Images/home-bg.png');
+    min-height: 50px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.social-media .icon{
+    height: 40px;
+    width: 40px;
+    color: whitesmoke;
+    padding: 10px;
+    transition: 0.4s;
+}
+
+.social-media .icon:hover{
+    background-color: whitesmoke;
+    color: #0E0018;
+    border-radius: 4px;
+}
+
+.profile-img{
+    border: 3px solid whitesmoke;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.profile-img img{
+    max-width: 300px;
+}
+
+.text-color{
+    color: yellowgreen;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.text-color:hover{
+    color: whitesmoke;
+}
+
+.btn-color{
+    background-color: rgba(153, 205, 50, 0.733);
+    color: whitesmoke;
+    transition: 0.4s;
+}
+
+.btn-color:hover{
+    color: #0E0018;
+    background-color: whitesmoke;
+}

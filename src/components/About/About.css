@@ -1,0 +1,77 @@
+section {
+    padding: 60px 0;
+    overflow: hidden;
+  }
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #45505b;
+  }
+  
+  .section-title h2::before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 120px;
+    height: 1px;
+    background: #ddd;
+    bottom: 1px;
+    left: calc(50% - 60px);
+  }
+  
+  .section-title h2::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: #290048;
+    bottom: 0;
+    left: calc(50% - 20px);
+  }
+  
+  .section-title p {
+    margin-bottom: 0;
+  }
+
+  .text-bold{
+      font-weight: bold;
+      color: #290048;
+  }
+
+  .text-height{
+    line-height: 15px;
+  }
+
+  .arrow-icon .icons{
+     height: 25px;
+     width: 25px;
+  }
+
+  .technologies{
+    max-width: 100%;
+    line-height: 0px;
+    
+  }
+
+  .technologies span {
+    background: #290048;
+    color: blanchedalmond;
+    margin-right: 5px;
+    border-radius: 3px;
+    padding: 3px 10px;
+    font-size: 13px;
+    line-height: 30px;
+    
+    
+  }
+  
