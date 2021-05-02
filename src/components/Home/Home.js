@@ -26,8 +26,8 @@ const Home = () => {
                                 <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faFacebookF} /></a></li>
                                 <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faTwitter} /></a></li>
                             </ul>
-                            <a role="button" class="btn btn-color" href="../../resume/Resume of Mohammad Mahbubul Alam.pdf" download>Dwonload Resume</a>
-                            <a role="button" class="btn btn-color mx-2" href="assets/resume/Resume%20Of%20Mohammad%20Mahbubul%20Alam.pdf">Online CV</a>
+                            <a role="button" class="btn btn-success" href="https://drive.google.com/file/d/1Ixt3ZIFro8tDkzLlNfYZ_xLNtoQLyPGh/view" target="_blank" download>Dwonload Resume</a>
+                            <a role="button" class="btn btn-info mx-2" href="#resume">Online CV</a>
                         </div>   
                     </div>
                 </div>
