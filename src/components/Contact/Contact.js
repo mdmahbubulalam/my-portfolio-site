@@ -1,6 +1,18 @@
 import React from 'react';
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
+    function sendEmail(e) {
+        e.preventDefault();
+    
+        emailjs.sendForm('gmail', 'template_hn1uo8o', e.target, 'user_iSUYD63fg77Y7Pdq0ciZy')
+          .then((result) => {
+              console.log(result.text);
+          }, (error) => {
+              console.log(error.text);
+          });
+          e.target.reset()
+      }
     return (
         <section className="container" id="contact">
             <div className="section-title">
@@ -9,7 +21,7 @@ const Contact = () => {
             <div className="row text-center">
             <div class="col-lg-12 mt-5 mt-lg-0">
 
-                <form action="" method="post" role="form">
+                <form action="" method="post" role="form" onSubmit={sendEmail}>
                 <div class="row">
                     <div class="col-md-6 form-group">
                         <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required />

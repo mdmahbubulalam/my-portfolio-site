@@ -40,13 +40,30 @@
     color: whitesmoke;
 }
 
-.btn-color{
+.btn-color-one{
     background-color: rgba(153, 205, 50, 0.733);
     color: whitesmoke;
     transition: 0.4s;
+    padding: 10px;
+    border: 1px solid #0E0018;
+    border-radius: 5px;
 }
 
-.btn-color:hover{
+.btn-color-two{
+    background-color: rgb(0, 110, 255);
+    color: whitesmoke;
+    transition: 0.4s;
+    padding: 10px;
+    border: 1px solid #0E0018;
+    border-radius: 5px;
+}
+
+.btn-color-one:hover{
+    color: #0E0018;
+    background-color: whitesmoke;
+}
+
+.btn-color-two:hover{
     color: #0E0018;
     background-color: whitesmoke;
 }

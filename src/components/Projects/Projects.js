@@ -16,36 +16,36 @@ const Projects = () => {
                 <div class="card">
                     <img class="card-img-top" src={projectOne} alt="Card image cap" />
                     <div class="card-body">
-                        <h3 class="card-title">Chandpur Cleaner</h3>
+                        <h3 class="card-title text-bold">Chandpur Cleaner</h3>
                         <p class="card-text">It's a cleaning service website, where users will be able to order the service, see the service list and write reviews. Admin will be able to see the order list, add a new service and delete a service.</p>
-                        <p class="card-text"><strong>Technologies:</strong> React.js, Node.js, Express.js, MongoDB, Firebase, Heroku.</p>
+                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>Node.js</span> <span>Express.js</span> <span>MongoDB</span> <span>Firebase</span> <span>Heroku</span></h5>
                         <div className="text-center">
                             <a href="https://github.com/mdmahbubulalam/chandpur-cleaner-client" target="_blank" role="button" className="btn btn-success mr-2">GitHub</a>
-                            <a href="https://chandpur-cleaner.web.app/" role="button" target="_blank" className="btn btn-success">Live Site</a>
+                            <a href="https://chandpur-cleaner.web.app/" role="button" target="_blank" className="btn btn-primary">Live Site</a>
                         </div>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src={projectTwo} alt="Card image cap" />
                     <div class="card-body">
-                        <h3 class="card-title">Clover Grocery</h3>
+                        <h3 class="card-title text-bold">Clover Grocery</h3>
                         <p class="card-text">It's an e-commerce website, where users will be able to order grocery item and view his order list. Admin will be able to see the full order list, add a new item and delete an item.</p>
-                        <p class="card-text"><strong>Technologies:</strong> React.js, Node.js, Express.js, MongoDB, Firebase, Heroku.</p>
+                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>Node.js</span> <span>Express.js</span> <span>MongoDB</span> <span>Firebase</span> <span>Heroku</span></h5>
                         <div className="text-center">
                             <a href="https://github.com/mdmahbubulalam/clover-grocery-client" target="_blank" role="button" className="btn btn-success mr-2">GitHub</a>
-                            <a href="https://fresh-valley-24505.web.app/" role="button" target="_blank" className="btn btn-success">Live Site</a>
+                            <a href="https://fresh-valley-24505.web.app/" role="button" target="_blank" className="btn btn-primary">Live Site</a>
                         </div>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src={projectThree} alt="Card image cap" />
                     <div class="card-body">
-                        <h3 class="card-title">Premier League Tracker</h3>
-                        <p class="card-text">It's a website about English Premier League teams where users will be able to see team details information.</p>
-                        <p class="card-text"><strong>Technologies:</strong> HTML, CSS, React.js, React Router, Bootstrap, API, Netlify.</p>
+                        <h3 class="card-title text-bold">Premier League Tracker</h3>
+                        <p class="card-text ">It's a website about English Premier League teams where users will be able to see team details information.</p>
+                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>HTML</span> <span>CSS</span> <span>React.js</span> <span>React Router</span> <span>Bootstrap</span> <span>Api</span> <span>Netlify</span></h5>
                         <div className="text-center">
                             <a href="https://github.com/mdmahbubulalam/make-world-eleven" role="button" target="_blank" className="btn btn-success mr-2">GitHub</a>
-                            <a href="https://zealous-kepler-483a64.netlify.app/" target="_blank" role="button" className="btn btn-success">Live Site</a>
+                            <a href="https://zealous-kepler-483a64.netlify.app/" target="_blank" role="button" className="btn btn-primary">Live Site</a>
                         </div>
                     </div>
                 </div>
