@@ -17,15 +17,15 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    
       <div>
-        <nav class="navbar navbar-expand-lg navbar-light sticky-top nav-bg">
+        <nav class="navbar navbar-expand-lg navbar-dark sticky-top nav-bg">
               <div class="container">
-                  <a class="navbar-brand" href="/home">
-                      <img src={logo} class="w-50" alt=""/>
+                  <a class="navbar-brand logo text-info" href="/home">
+                      {/* <img src={logo} class="logo" alt=""/> */}
+                      Mohammad Mahbubul Alam
                   </a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
+                  <button class="navbar-toggler ms-auto p-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon" ></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                       <ul class="navbar-nav ms-auto">
@@ -58,6 +58,7 @@ function App() {
           <Blogs />
           <Contact />
           <Footer />
+      
           {/* <Router>
             <Switch>
               <Route path="/Home">
@@ -71,6 +72,7 @@ function App() {
               </Route>
           </Switch>
         </Router> */}
+         
       </div>
     
   );

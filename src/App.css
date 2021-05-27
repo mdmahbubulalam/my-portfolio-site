@@ -24,3 +24,9 @@ a.left-underline:hover:before {
   visibility: visible;
   width: 100%;
 }
+
+.logo{
+  font-weight: 900;
+  font-style: initial;
+  font-size: large;
+}

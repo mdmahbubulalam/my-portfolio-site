@@ -4,13 +4,14 @@ import './Home.css';
 import { faGithub, faLinkedinIn, faFacebookF, faTwitter } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Typical from 'react-typical';
+import ParticlesOptions from '../../ParticlesOptions/ParticlesOptions';
 
 const Home = () => {
-    
     return (
         <div className="home-bg">
             <header className="container py-5">
-                <div className="row pt-5 pb-4">
+                <div className="row pt-5 pb-4"> 
+                    <ParticlesOptions></ParticlesOptions>
                     <div className="col-lg-4 col-md-12 col-sm-12 d-flex justify-content-center">
                         <div className="profile-img">
                             <img src={profileImage} alt="" className="rounded-circle"/>
@@ -53,6 +54,7 @@ const Home = () => {
                 </div>
             </header>
         </div>
+        
        
     );
 };
