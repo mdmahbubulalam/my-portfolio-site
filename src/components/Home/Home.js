@@ -8,7 +8,7 @@ import ParticlesOptions from '../../ParticlesOptions/ParticlesOptions';
 
 const Home = () => {
     return (
-        <div className="home-bg">
+        <div className="home-bg" id="home">
             <header className="container py-5">
                 <div className="row pt-5 pb-4"> 
                     <ParticlesOptions></ParticlesOptions>
