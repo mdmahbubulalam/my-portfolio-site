@@ -41,12 +41,12 @@ const Home = () => {
                                 />
                             </h4>
                             <ul className="social-media list-inline pt-3">
-                                <li className="list-inline-item"><a href="//facebook.com"><FontAwesomeIcon className="icon" icon={faGithub} /></a></li>
-                                <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faLinkedinIn} /></a></li>
-                                <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faFacebookF} /></a></li>
-                                <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faTwitter} /></a></li>
+                                <li className="list-inline-item"><a target="_blank" href="https://github.com/mdmahbubulalam"><FontAwesomeIcon className="icon" icon={faGithub} /></a></li>
+                                <li className="list-inline-item"><a target="_blank" href="https://www.linkedin.com/in/mohammad-mahbubul-alam-2a59291a9/"><FontAwesomeIcon className="icon" icon={faLinkedinIn} /></a></li>
+                                <li className="list-inline-item"><a target="_blank" href="https://web.facebook.com/iscomustafi/"><FontAwesomeIcon className="icon" icon={faFacebookF} /></a></li>
+                                <li className="list-inline-item"><a target="_blank" href="https://twitter.com/Mohamma72291117"><FontAwesomeIcon className="icon" icon={faTwitter} /></a></li>
                             </ul>
-                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1RQck44N1g9fKjnaeTKbdNdT3ez_6i8aQ/view?usp=sharing" target="_blank" download>Dwonload Resume</a>
+                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1RQck44N1g9fKjnaeTKbdNdT3ez_6i8aQ/view?usp=sharing" target="_blank" download>Download Resume</a>
                             <a role="button" class="btn-color-two text-decoration-none mx-2" href="#resume">Online CV</a>
                         </div>   
                     </div>
