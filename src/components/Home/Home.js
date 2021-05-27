@@ -46,7 +46,7 @@ const Home = () => {
                                 <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faFacebookF} /></a></li>
                                 <li className="list-inline-item"><a href="//google.com"><FontAwesomeIcon className="icon" icon={faTwitter} /></a></li>
                             </ul>
-                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1Ixt3ZIFro8tDkzLlNfYZ_xLNtoQLyPGh/view" target="_blank" download>Dwonload Resume</a>
+                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1RQck44N1g9fKjnaeTKbdNdT3ez_6i8aQ/view?usp=sharing" target="_blank" download>Dwonload Resume</a>
                             <a role="button" class="btn-color-two text-decoration-none mx-2" href="#resume">Online CV</a>
                         </div>   
                     </div>
