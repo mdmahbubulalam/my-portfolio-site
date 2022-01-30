@@ -40,12 +40,12 @@ const Projects = () => {
                 <div class="card">
                     <img class="card-img-top" src={projectThree} alt="Card image cap" />
                     <div class="card-body">
-                        <h3 class="card-title text-bold">Premier League Tracker</h3>
-                        <p class="card-text ">It's a website about English Premier League teams where users will be able to see team details information.</p>
+                        <h3 class="card-title text-bold">AMDb</h3>
+                        <p class="card-text ">It's a movie info website where users will be able to search for movies and view detailed information about a movie.</p>
                         <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>HTML</span> <span>CSS</span> <span>React.js</span> <span>React Router</span> <span>Bootstrap</span> <span>Api</span> <span>Netlify</span></h5>
                         <div className="text-center">
-                            <a href="https://github.com/mdmahbubulalam/make-world-eleven" role="button" target="_blank" className="btn btn-success mr-2">GitHub</a>
-                            <a href="https://zealous-kepler-483a64.netlify.app/" target="_blank" role="button" className="btn btn-primary">Live Site</a>
+                            <a href="https://github.com/mdmahbubulalam/amdb-movie-info" role="button" target="_blank" className="btn btn-success mr-2">GitHub</a>
+                            <a href="https://amdb-eac01.web.app/" target="_blank" role="button" className="btn btn-primary">Live Site</a>
                         </div>
                     </div>
                 </div>
