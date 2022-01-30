@@ -19,7 +19,7 @@ const About = () => {
                         <p><span className="text-bold">Email:</span> alam.diu13@gmail.com</p>
                         <p><span className="text-bold">Phone:</span> +880 1836883501</p>
                         <p><span className="text-bold">Education:</span> BSc in CSE</p>
-                        <p><span className="text-bold">Address:</span> Chandpur, Bangladesh</p>
+                        <p><span className="text-bold">Address:</span> Dhaka, Bangladesh</p>
                     </div>
                 </div>
                 <div className="col-lg-6">
