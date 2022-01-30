@@ -42,7 +42,7 @@ const Projects = () => {
                     <div class="card-body">
                         <h3 class="card-title text-bold">AMDb</h3>
                         <p class="card-text ">It's a movie info website where users will be able to search for movies and view detailed information about a movie.</p>
-                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>HTML</span> <span>CSS</span> <span>React.js</span> <span>React Router</span> <span>Bootstrap</span> <span>Api</span> <span>Netlify</span></h5>
+                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>React Native</span> <span>Api</span> <span>Firebase</span></h5>
                         <div className="text-center">
                             <a href="https://github.com/mdmahbubulalam/amdb-movie-info" role="button" target="_blank" className="btn btn-success mr-2">GitHub</a>
                             <a href="https://amdb-eac01.web.app/" target="_blank" role="button" className="btn btn-primary">Live Site</a>
