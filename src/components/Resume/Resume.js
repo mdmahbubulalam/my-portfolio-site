@@ -36,19 +36,29 @@ const Resume = () => {
                     <h3 class="resume-title">Work Experience</h3>
                     <div class="resume-item">
                         <h4>SQA Engineer</h4>
+                        <h5>2021 - Present</h5>
+                        <p><em>IPVision Limited, Dhaka, Bangladesh</em></p>
+                        <ul>
+                           <li>Analyzing project requirements and provided testing scope.</li>
+                           <li>Develop documentation and contribute to test plan preparations.</li>
+                           <li>Perform different types of manual testing on desktop and mobile apps.</li>
+                           <li>Developed test script, test scenario, and test summary report.</li>
+                           <li>Create, execute and modify test cases (If required) and prioritize testing activities.</li>
+                           <li>Identifies and reports software defects and test findings using defect tracking tool.</li>
+                           <li>Carry out regression testing every time code is changed to fix defects.</li>
+                        </ul>
+                    </div>
+                    <div class="resume-item">
+                        <h4>SQA Engineer</h4>
                         <h5>2014 - 2018</h5>
                         <p><em>IPVision Limited, Dhaka, Bangladesh</em></p>
                         <ul>
-                            <li>Analyzed requirements and developed test plans, test scenarios, test cases, test summary reports.</li>
-                            <li>Perform different types of manual testing.</li>
-                            <li>Inform the test lead about what all resources will be required for software testing.</li>
-                            <li>Develop, execute, modifying (If required)  test cases and prioritize testing activities.</li>
-                            <li>Carry out regression testing every time when changes are made to the code to fix defects.</li>
-                            <li>Report defects and creates defect reports for QA Management.</li>
-                            <li>Develop documentation and contributing in Test plan preparations.</li>
-                            <li>Worked with all platforms of ringID (Android, iOS, Desktop and Web).</li>
-                            <li>Worked with issue tracker Redmine, GitLab.</li>
-                            <li>Worked with selenium web driver and perform basic automation task.</li>
+                           <li>Understanding project requirements.</li>
+                           <li>Perform different types of manual testing on desktop, web, mobile apps.</li>
+                           <li>Developed test script, test scenario, and test summary report.</li>
+                           <li>Create, execute and modify test cases (If required).</li>
+                           <li>Identifies and reports software defects and test findings using defect tracking tool.</li>
+                           <li>Carry out regression testing every time code is changed to fix defects.</li>
                         </ul>
                     </div>
                 </div>
