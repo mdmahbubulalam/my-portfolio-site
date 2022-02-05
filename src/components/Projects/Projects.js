@@ -40,7 +40,7 @@ const Projects = () => {
                 <div class="card">
                     <img class="card-img-top" src={projectThree} alt="Card image cap" />
                     <div class="card-body">
-                        <h3 class="card-title text-bold">AMDb</h3>
+                        <h3 class="card-title text-bold">Movie Search</h3>
                         <p class="card-text ">It's a movie info website where users will be able to search for movies and view detailed information about a movie.</p>
                         <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>React Native</span> <span>Api</span> <span>Firebase</span></h5>
                         <div className="text-center">
