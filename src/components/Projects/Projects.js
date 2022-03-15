@@ -18,7 +18,7 @@ const Projects = () => {
                     <div class="card-body">
                         <h3 class="card-title text-bold">Chandpur Cleaner</h3>
                         <p class="card-text">It's a cleaning service website, where users will be able to order the service, see the service list and write reviews. Admin will be able to see the order list, add a new service and delete a service.</p>
-                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>Node.js</span> <span>Express.js</span> <span>MongoDB</span> <span>Firebase</span> <span>Heroku</span></h5>
+                        <h5 class="card-text technologies"><strong className="text-bold">Technologies: </strong> <span>React.js</span> <span>Node.js</span> <span>Express.js</span> <span>MongoDB</span> <span>Firebase</span> <span>Heroku</span></h5>
                         <div className="text-center">
                             <a href="https://github.com/mdmahbubulalam/chandpur-cleaner-client" target="_blank" role="button" className="btn btn-success mr-2">GitHub</a>
                             <a href="https://chandpur-cleaner.web.app/" role="button" target="_blank" className="btn btn-primary">Live Site</a>
@@ -42,8 +42,8 @@ const Projects = () => {
                     <div class="card-body">
                         <h3 class="card-title text-bold">Movie Search</h3>
                         <p class="card-text ">It's a movie info website where users will be able to search for movies and view detailed information about a movie.</p>
-                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>React Native</span> <span>Api</span> <span>Firebase</span></h5>
-                        <div className="text-center">
+                        <h5 class="card-text technologies"><strong className="text-bold">Technologies:</strong> <span>React.js</span> <span>React Native</span> <span>Api</span> <span>Bootstrap</span> <span>Firebase</span></h5>
+                        <div className="text-center my-5 pt-4">
                             <a href="https://github.com/mdmahbubulalam/amdb-movie-info" role="button" target="_blank" className="btn btn-success mr-2">GitHub</a>
                             <a href="https://amdb-eac01.web.app/" target="_blank" role="button" className="btn btn-primary">Live Site</a>
                         </div>
