@@ -31,9 +31,10 @@
 }
 
 .text-color{
-    color: yellowgreen;
+    color: rgb(0, 110, 255);
     transition: 0.4s;
     cursor: pointer;
+    font-weight: bold;
 }
 
 .text-color:hover{
@@ -41,30 +42,43 @@
 }
 
 .btn-color-one{
-    background-color: rgba(153, 205, 50, 0.733);
     color: whitesmoke;
     transition: 0.4s;
     padding: 10px;
-    border: 1px solid #0E0018;
+    border: 2px solid rgba(153, 205, 50, 0.733);
     border-radius: 5px;
 }
 
 .btn-color-two{
-    background-color: rgb(0, 110, 255);
     color: whitesmoke;
     transition: 0.4s;
     padding: 10px;
-    border: 1px solid #0E0018;
+    border: 2px solid rgb(0, 110, 255);
     border-radius: 5px;
 }
 
+.btn-color-three{
+    color: whitesmoke;
+    transition: 0.4s;
+    padding: 10px;
+    background-color: rgb(0, 110, 255);
+    border-radius: 5px;
+    border: none;
+}
+
+
 .btn-color-one:hover{
-    color: #0E0018;
-    background-color: whitesmoke;
+    color: whitesmoke;
+    background-color: rgba(153, 205, 50, 0.733);
 }
 
 .btn-color-two:hover{
-    color: #0E0018;
-    background-color: whitesmoke;
+    color: whitesmoke;
+    background-color: rgb(0, 110, 255);
+}
+
+.btn-color-three:hover{
+    color: white;
+    background-color: rgb(65, 147, 255);
 }
 

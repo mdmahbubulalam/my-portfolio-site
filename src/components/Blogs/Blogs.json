@@ -1,0 +1,35 @@
+[
+    {
+        "blogId": 1,
+        "title":"Top Ten JavaScript Interview Questions and Answers for beginners",
+        "creator": "Mohammad Mahbubul Alam",
+        "content":"Here I have describe the top ten common but important javaScript interview questions and answers for beginners.",
+        "link":"https://alam-diu13.medium.com/javascript-interview-questions-and-answers-for-beginners-52df88f7605c"
+      
+    },
+    {
+        "blogId": 2,
+        "title":"JavaScript Basics — For Beginners",
+        "creator": "Mohammad Mahbubul Alam",
+        "content":"JavaScript is one of the most popular programming languages. Approximately, there are 12.4 million active JavaScript developers in the world. It’s a programming language for the web. Here I have described some JavaScript and ES6 basics for beginners.",
+        "link":"https://alam-diu13.medium.com/javascript-basics-for-beginners-20695c963e3b"
+      
+    },
+    {
+        "blogId": 3,
+        "title":"10 useful JavaScript method every JavaScript developer should know",
+        "creator": "Mohammad Mahbubul Alam",
+        "content":"As a JavaScript developer, You should know these JavaScript methods.",
+        "link":"https://alam-diu13.medium.com/10-useful-javascript-method-every-javascript-developer-should-know-c7e92329e514"
+      
+    },
+    {
+        "blogId": 1,
+        "title":"Difference between JavaScript variable keyword (var, let, const)",
+        "creator": "Mohammad Mahbubul Alam",
+        "content":"Before ECMAScript 2015, JavaScript had only one variable keyword called var. ECMAScript 2015 introduces us to two new variable keywords known as let and const.Here i have describe difference between JavaScript variable keyword (var, let, const)",
+        "link":"https://alam-diu13.medium.com/difference-between-javascript-variable-keyword-var-let-const-123a9c1ce135"
+      
+    }
+
+]

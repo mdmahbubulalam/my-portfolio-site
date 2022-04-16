@@ -24,39 +24,32 @@ const About = () => {
                 </div>
                 <div className="col-lg-6">
                     <div className="technologies">
-                        <p className="text-bold">Comfortable:</p>
+                        <p className="text-bold p-0 m-0 fs-5">Comfortable:</p>
                         <span>JavaScript</span>
                         <span>ES6</span>
                         <span>React.js</span>
                         <span>React Router</span>
                         <span>React Bootstrap</span>
                         <span>Rest API</span>
-                        <span>Bootstrap</span><br/>
+                        <span>Bootstrap</span>
                         <span>HTML</span>
                         <span>CSS</span>
-                        <span>Software QA</span>
-                        <span>Manual Testing</span>
                         
-
-                        <p className="text-bold mt-4">Familiar:</p>
+                        <p className="text-bold p-0 m-0 fs-5">Familiar:</p>
                         <span>Node.js</span>
                         <span>Express.js</span>
                         <span>Material UI</span>
                         <span>React Native</span>
                         <span>JSON</span>
-                        <span>SASS</span>
                         <span>MongoDB</span>
-                        <span>MySQL</span><br/>
+                        <span>MySQL</span>
                         <span>PHP</span>
                         <span>Laravel</span>
                         <span>jQuery</span>
                         <span>TypeScript</span>
                         <span>Java</span>
-                        <span>OOP</span>
-                        <span>Automation Testing</span>
-                        
-
-                        <p className="text-bold mt-4">Tools:</p>
+        
+                        <p className="text-bold p-0 m-0 fs-5">Tools:</p>
                         <span>GitHub</span>
                         <span>GitLab</span>
                         <span>Jira</span>
@@ -64,7 +57,7 @@ const About = () => {
                         <span>VS Code</span>
                         <span>PhpStorm</span>
                         <span>NetBeans</span>
-                        <span>Firebase</span><br/>
+                        <span>Firebase</span>
                         <span>Netlify</span>
                         <span>Heroku</span>
                         <span>Chrome Dev Tool</span>

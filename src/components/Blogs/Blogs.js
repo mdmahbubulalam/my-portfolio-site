@@ -1,38 +1,31 @@
 import React, { useEffect, useState } from 'react';
+import blogs from './Blogs.json'
+
 
 const Blogs = () => {
-    //
-    const [blogs,setBlogs] = useState([]);
-
-    useEffect(()=> {
-        fetch('https://v1.nocodeapi.com/mahbubulalam/medium/ukPgzlsIReSCvtZE')
-        .then(res => res.json())
-        .then(data => {
-            setBlogs(data);
-            console.log(data);
-        })
-    },[])
+    
     return (
         <section className="container" id="blogs">
             <div className="section-title">
                 <h2>Blogs</h2>
             </div>
             <div className="row text-center">
+
+                <div className="col-md-6"></div>
                 
                     <div class="card-deck ">
                         {
                             blogs.map(blog => 
-                                <div className="col-md-4 mt-3">
-                                    <div class="card h-100 w-100 p-5 bg-dark">
-                                        <div className="d-flex justify-content-center align-items-center h-100 w-100 ">
-                                            <div class="card-title">
-                                                <h5 class="card-title text-bold text-white">{blog.title} <br/>
-                                                <small>by {blog.creator}</small>
-                                                {blog.content}
-                                                </h5> 
+                                <div className="col-lg-6 col-md-12 col-sm-12 col-12 mt-3 text-white">
+                                    <div class="card h-100 w-100 p-5 rounded" style={{backgroundColor : "#290048"}}>
+                                        <div class="card-title">
+                                            <h5 class="card-title text-bold text-white">{blog.title}</h5> 
+                                            <p className='p-0 m-0'><small>by {blog.creator}</small></p>
+                                        </div>   
+                                        <div className='card-body'>
+                                                <p className='p-0 m-0'>{blog.content}</p>
                                             </div>
-                                        </div>
-                                        <div className="card-body">
+                                        <div className="card-footer">
                                             <a href={blog.link} role="button" target='_blank' className="btn btn-outline-light btn-block">Read This Article</a>
                                         </div>
                                     </div>              

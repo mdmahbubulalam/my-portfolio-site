@@ -23,12 +23,12 @@ const Resume = () => {
                     <h3 class="resume-title">Training and Course Summary</h3>
                 
                     <div class="resume-item">
-                        <h4>THE COMPLETE WEB DEVELOPMENT COURSE WITH ALL LATEST VERSION</h4>
-                        <p><em>eShikhon, Dhaka, Bangladesh</em></p>
-                    </div>
-                    <div class="resume-item">
                         <h4>Complete Web Development with Jhankar Mahbub</h4>
                         <p><em>Programming Hero, Dhaka, Bangladesh</em></p>
+                    </div>
+                    <div class="resume-item">
+                        <h4>THE COMPLETE WEB DEVELOPMENT COURSE WITH ALL LATEST VERSION</h4>
+                        <p><em>eShikhon, Dhaka, Bangladesh</em></p>
                     </div>
                 </div>
                    

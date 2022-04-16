@@ -36,7 +36,7 @@ const Contact = () => {
                 <div class="form-group mt-3">
                     <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                 </div>
-                <div class="text-center"><button type="submit" class="btn btn-info">Send Message</button></div>
+                <div class="text-start"><button type="submit" class="btn-color-three">Send Message</button></div>
                 </form>
 
                 </div>

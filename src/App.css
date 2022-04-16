@@ -1,3 +1,7 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
 .nav-bg{
   background-color: #0E0018;
 }
@@ -29,4 +33,10 @@ a.left-underline:hover:before {
   font-weight: 900;
   font-style: initial;
   font-size: large;
+  color: #006EFF;
+  transition: .3s;
+}
+
+.logo:hover{
+  color: whitesmoke;
 }

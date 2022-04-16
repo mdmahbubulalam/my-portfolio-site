@@ -1,0 +1,29 @@
+.tech-span{
+    background-color: #290048;
+    color: blanchedalmond;
+    padding: 5px 8px 5px 8px;
+    margin: 10px 10px 0px 0px ;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.github-link{
+    color: #290048;
+    font-size: 1.7rem;
+    transition: .2s;
+    margin: 0px 10px 0px 0px;
+}
+
+.github-link:hover{
+    color: rgb(22, 22, 22)
+}
+
+.tooltip-style{
+    background-color: #290048 !important;
+    color: blanchedalmond !important; 
+    
+}
+
+.card-bg-color{
+    background-color: #290048;
+}

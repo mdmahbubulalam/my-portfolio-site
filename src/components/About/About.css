@@ -57,19 +57,15 @@ section {
      width: 25px;
   }
 
-  .technologies{
-    max-width: 100%;
-    line-height: 0px;
-    
-  }
+
 
   .technologies span {
-    background: #290048;
+    background-color: #290048;
     color: blanchedalmond;
-    margin-right: 5px;
-    border-radius: 3px;
-    padding: 3px 10px;
+    padding: 3px 8px 3px 8px;
+    margin: 0px 10px 10px 0px ;
+    border-radius: 2px;
+    display: inline-block;
     font-size: 13px;
-    line-height: 30px;  
   }
   
