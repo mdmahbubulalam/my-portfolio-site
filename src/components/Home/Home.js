@@ -47,7 +47,11 @@ const Home = () => {
                                 <li className="list-inline-item"><a target="_blank" href="https://web.facebook.com/iscomustafi/"><FontAwesomeIcon className="icon" icon={faFacebookF} /></a></li>
                                 <li className="list-inline-item"><a target="_blank" href="https://twitter.com/Mohamma72291117"><FontAwesomeIcon className="icon" icon={faTwitter} /></a></li>
                             </ul>
-                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1-12ff33sHzS1B-8eGrRUwSo1om6ICY7Z/view?usp=sharing" target="_blank">Download Resume</a>
+
+                            {/* <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1-12ff33sHzS1B-8eGrRUwSo1om6ICY7Z/view?usp=sharing" target="_blank">Download Resume</a> */}
+
+                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1hNlkzmbY6R1gSOaEDFA6xvzAkNgHakpk/view?usp=sharing" target="_blank">Download Resume</a>
+
                             <a role="button" class="btn-color-two text-decoration-none mx-2" href="#resume">Online CV</a>
                         </div>   
                     </div>
