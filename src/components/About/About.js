@@ -11,7 +11,7 @@ const About = () => {
             </div>
             <div className="row">
                 <div className="col-lg-6">
-                    <p className="text-justify">I am Mohammad Mahbubul Alam. I describe myself as a passionate developer and SQA engineer who loves coding and testing. At present, I am seeking a challenging and rewarding position as a MERN stack developer, with a strong will to prosper in any assigned duties.</p>
+                    <p className="text-justify">I am Mohammad Mahbubul Alam. I describe myself as a passionate SQA engineer and web developer who loves testing and coding. At present, I am seeking a challenging and rewarding position as a  Software Quality Assurance Engineer or MERN stack developer, with a strong will to prosper in any assigned duties.</p>
                     <p>I am passionate about new challenges. I like to learn new things, adapt myself to any situation and be up-to-date.</p>
 
 
