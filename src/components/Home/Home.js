@@ -50,7 +50,7 @@ const Home = () => {
 
                             {/* <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1-12ff33sHzS1B-8eGrRUwSo1om6ICY7Z/view?usp=sharing" target="_blank">Download Resume</a> */}
 
-                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1hi3rysyfovpc3unQ2rB6QPjbqiyZGBsS/view?usp=sharing" target="_blank">Download Resume</a>
+                            <a role="button" class="btn-color-one text-decoration-none" href="https://drive.google.com/file/d/1bJ5pJ7JwzSWeoIOvuV3LZgEQnHWRJUAf/view?usp=sharing" target="_blank">Download Resume</a>
 
                             <a role="button" class="btn-color-two text-decoration-none mx-2" href="#resume">Online CV</a>
                         </div>   
