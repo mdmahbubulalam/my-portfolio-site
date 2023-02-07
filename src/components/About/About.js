@@ -28,27 +28,31 @@ const About = () => {
                         <span>JavaScript</span>
                         <span>ES6</span>
                         <span>React.js</span>
+                        <span>React Native</span>
                         <span>React Router</span>
                         <span>React Bootstrap</span>
                         <span>Rest API</span>
                         <span>Bootstrap</span>
                         <span>HTML</span>
                         <span>CSS</span>
-                        
+                            
                         <p className="text-bold p-0 m-0 fs-5">Familiar:</p>
                         <span>Node.js</span>
                         <span>Express.js</span>
                         <span>Material UI</span>
-                        <span>React Native</span>
+                        <span>GreenSock</span>
                         <span>JSON</span>
                         <span>MongoDB</span>
                         <span>MySQL</span>
+                        <span>Appium</span>
+                        <span>Selenium</span>
+                        <span>TestNG</span>
                         <span>PHP</span>
                         <span>Laravel</span>
                         <span>jQuery</span>
                         <span>TypeScript</span>
                         <span>Java</span>
-        
+            
                         <p className="text-bold p-0 m-0 fs-5">Tools:</p>
                         <span>GitHub</span>
                         <span>GitLab</span>
@@ -57,11 +61,12 @@ const About = () => {
                         <span>VS Code</span>
                         <span>PhpStorm</span>
                         <span>NetBeans</span>
+                        <span>Adobe Photoshop</span>
+                        <span>Maven</span>
                         <span>Firebase</span>
                         <span>Netlify</span>
                         <span>Heroku</span>
-                        <span>Chrome Dev Tool</span>
-                        
+                        <span>Chrome Dev Tool</span>   
                     </div> 
                 </div>
             </div>
